@@ -1,6 +1,6 @@
-# Clonación de Interfaz de Google 🏽‍💻👩🏽‍💻 
+# Clonación de Interfaz de Google 💻👩🏽‍💻 🧠
 
-## ÍNDICE
+## ÍNDICE 👁‍🗨
 
 * [1. Intro](https://github.com/JulyRS/ClonInterfazdeGoogle/blob/main/README.md#1-intro)
 * [2. Qué Construí](https://github.com/JulyRS/ClonInterfazdeGoogle/blob/main/README.md#2-qu%C3%A9-constru%C3%AD)
